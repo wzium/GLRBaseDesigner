@@ -10,8 +10,8 @@ now you can do it easily with the help of clean and precise 2D project without u
     2. Run `menu.py`
     3. Enjoy!
 - Option 2:
-    1. Download the latest package (`GLRBaseDesigner.rar` file)
-    2. Extract the `GLRBaseDesigner.rar` file
+    1. Download the latest package (`GLRBaseDesigner.zip` file)
+    2. Extract the `GLRBaseDesigner.zip` file
     3. Run `GLRBaseDesigner.exe`
     4. Enjoy!
 ## Controls
