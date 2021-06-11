@@ -1,0 +1,22 @@
+{
+    "Compact House": 36,
+    "Mine": 36,
+    "Bank": 36,
+    "Silo": 36,
+    "Training Camp": 64,
+    "Factory": 64,
+    "Starport": 64,
+    "Warp Gate": 144,
+    "Laboratory": 64,
+    "Observatory": 36,
+    "Cannon Blast": 16,
+    "Sniper Tower": 16,
+    "Missile Launcher": 16,
+    "Laser Tower": 16,
+    "Mortar": 16,
+    "Freeze Turret": 16,
+    "Friends Bunker": 64,
+    "Defence Bunker": 64,
+    "Walls": 1,
+    "Traps": 1
+}

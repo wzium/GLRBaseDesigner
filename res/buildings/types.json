@@ -1,0 +1,23 @@
+{
+    "building": ["Compact House",
+                 "Mine",
+                 "Bank",
+                 "Silo",
+                 "Training Camp",
+                 "Factory",
+                 "Starport",
+                 "Warp Gate",
+                 "Laboratory",
+                 "Observatory",
+                 "Walls",
+                 "Traps"],
+
+    "defence": ["Cannon Blast",
+                "Sniper Tower",
+                "Missile Launcher",
+                "Laser Tower",
+                "Mortar",
+                "Freeze Turret",
+                "Friends Bunker",
+                "Defence Bunker"]
+}
